@@ -555,6 +555,13 @@ section {
   background-color: #ffffff;
 }
 
+
+.section-bg-counter {
+  background-color: #f8f9fa;
+}
+
+
+
 .btn-dark{
   background-color: #124265;
   border-style: dotted;
@@ -663,7 +670,7 @@ background-color: #124265;
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: #6c757d;
   margin-left: 80px;
   margin: auto;
 }
@@ -673,7 +680,7 @@ background-color: #124265;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: #25223a;
 }
 
 /*--------------------------------------------------------------
