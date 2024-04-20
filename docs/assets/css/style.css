@@ -1213,6 +1213,7 @@ background-color: #124265;
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
+  padding: 10px;
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info::before {
