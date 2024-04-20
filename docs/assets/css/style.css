@@ -552,7 +552,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f8fbfe;
+  background-color: #ffffff;
 }
 
 .btn-dark{
@@ -800,7 +800,7 @@ background-color: #124265;
 }
 
 .clients img {
-  max-width: 45%;
+  max-width: 80%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
