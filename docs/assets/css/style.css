@@ -93,7 +93,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #2487ce;
+  border: 6px solid #d35768;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -138,7 +138,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 28px;
+  font-size: 21px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -157,10 +157,19 @@ h6 {
 
 @media (max-width: 992px) {
   #header .logo {
-    font-size: 28px;
+    font-size: 18px;
   }
 }
 
+.describeMovie{
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  color: white;
+  background-color: #cf2b41d1;
+  text-align: center;
+  width: 100%;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
