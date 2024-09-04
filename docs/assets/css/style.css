@@ -1213,6 +1213,7 @@ background-color: #124265;
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #471b21;
+  background-color:#ededed;
   margin: 0 2px;
   font-size: 18px;
   display: inline-block;
